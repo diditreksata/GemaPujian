@@ -88,7 +88,7 @@ color: #ffffff !important; font-weight: bold;
 
 
 .DaftarLirikLagu {
-	background-color:#ffffff;
+	background-color:##c5e7e3;
 	-webkit-border-top-left-radius:1px;
 	-moz-border-radius-topleft:1px;
 	border-top-left-radius:1px;
@@ -102,9 +102,9 @@ color: #ffffff !important; font-weight: bold;
 	-moz-border-radius-bottomleft:1px;
 	border-bottom-left-radius:1px;
 	text-indent:0;
-	border:1px solid #292929;
+	border:1px solid #000000;
 	display:inline-block;
-	color:#292729;
+	color:#0400ff;
 	font-family:arial;
 	font-size:15px;
 	font-weight:normal;
