@@ -1,0 +1,36 @@
+.DaftarLirikLagu {
+	background-color:#C0C0C0;
+	-webkit-border-top-left-radius:1px;
+	-moz-border-radius-topleft:1px;
+	border-top-left-radius:1px;
+	-webkit-border-top-right-radius:1px;
+	-moz-border-radius-topright:1px;
+	border-top-right-radius:1px;
+	-webkit-border-bottom-right-radius:1px;
+	-moz-border-radius-bottomright:1px;
+	border-bottom-right-radius:1px;
+	-webkit-border-bottom-left-radius:1px;
+	-moz-border-radius-bottomleft:1px;
+	border-bottom-left-radius:1px;
+	text-indent:0;
+	border:1px solid #292929;
+	display:inline-block;
+	color:#292729;
+	font-family:arial;
+	font-size:15px;
+	font-weight:normal;
+	font-style:normal;
+	height:21px;
+	line-height:21px;
+	width:52px;
+	text-decoration:none;
+	text-align:center;
+    margin:1px
+}
+.DaftarLirikLagu:hover {
+ background-color:#b37604;color: #ffffff; font-weight: normal;
+}
+.DaftarLirikLagu:active {
+ position:relative;
+top:1px;
+}
