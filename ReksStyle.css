@@ -46,7 +46,7 @@
 }
 
 .SongIndex {
-	-moz-box-shadow:inset 0px 1px 0px 0px #C0C0C0;
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
 	background-color:#d4f30b;
@@ -86,7 +86,7 @@ color: #ffffff !important; font-weight: bold;
 }
 
 .DaftarLirikLagu {
-	background-color:#c0c0c0;
+	background-color#ffffff;
 	-webkit-border-top-left-radius:1px;
 	-moz-border-radius-topleft:1px;
 	border-top-left-radius:1px;
