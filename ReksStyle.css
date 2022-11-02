@@ -121,7 +121,8 @@ color: #ffffff !important; font-weight: bold;
   color: #3d3a3d;
 .DaftarLirikLagu:active {
  position:relative;
-top:1px;}
+top:1px;
+}
 .DaftarLirikLagu1 {
 	background-color:#C0C0C0;
 	-webkit-border-top-left-radius:1px;
