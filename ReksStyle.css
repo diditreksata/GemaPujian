@@ -124,7 +124,7 @@ color: #ffffff !important; font-weight: bold;
 top:1px;
 }
 	
-.DaftarLirikLagu1 {
+.DaftarLirik {
 	background-color:#C0C0C0;
 	-webkit-border-top-left-radius:1px;
 	-moz-border-radius-topleft:1px;
@@ -153,10 +153,10 @@ top:1px;
 	text-align:center;
     margin:1px
 }
-.DaftarLirikLagu1:hover {
+.DaftarLirik:hover {
  background-color:#b37604;color: #ffffff; font-weight: normal;
 }
-.DaftarLirikLagu1:active {
+.DaftarLirik:active {
  position:relative;
 top:1px;
 }
