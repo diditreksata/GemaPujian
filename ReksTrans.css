@@ -8,7 +8,7 @@ span.c {
 }
 pre {
 font-family: monospace;
-font-size:18px;
+font-size:14px;
 }
 
 .transpose-keys a {
@@ -47,11 +47,12 @@ font-size:18px;
 	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');
 	background-color:#fb9e25; font-weight: bold;
-}.transpose-keys a:active {
+}
+.transpose-keys a:active {
 	position:relative;
 	top:1px;
 }
 .transpose-keys a.selected { 
   background: #f24537; 
-  color: #fff;
+  color: #ffffff;
 }
