@@ -7,7 +7,7 @@
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cf0e00), color-stop(1, #f5f5f5) );
 	background:-moz-linear-gradient( center top, #cf0e00 5%, #f5f5f5 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf0e00', endColorstr='#f5f5f5');
-	background-color:#ffffff;
+	background-color:#cf0e00;
 	-webkit-border-top-left-radius:12px;
 	-moz-border-radius-topleft:12px;
 	border-top-left-radius:12px;
@@ -25,7 +25,7 @@
 	display:inline-block;
 	color:#11052b !important;
 	font-family:Arial;
-	font-size:12px;
+	font-size:16px;
 	font-weight:normal;
 	font-style:normal;
 	height:25px;
@@ -39,11 +39,11 @@
 	background:-moz-linear-gradient( center top, #f5f5f5 5%, #cf0e00 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#cf0e00');
 	background-color:#f5f5f5; color: #ffffff !important;
-}
-.toggle_lyrics:active {
+}.toggle_lyrics:active {
 	position:relative;
 	top:1px;
 }
+
 
 .SongIndex {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
