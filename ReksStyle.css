@@ -127,8 +127,7 @@ color: #ffffff !important; font-weight: bold;
 	position:relative;
 	top:1px;
 }
-
-  .ListLaguCurrent {
+.ListLaguCurrent {
   background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, red), color-stop(1,white) );
   border-bottom-left-radius:1px;
   text-indent:0;
@@ -146,65 +145,3 @@ color: #ffffff !important; font-weight: bold;
   text-align:center;
   margin:1px
 }
-.ListLagu {
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, aqua), color-stop(1, white) );
-	background:-moz-linear-gradient( center top, #cf0e00 5%, #f5f5f5 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#cf0e00&#39;, endColorstr=&#39;#f5f5f5&#39;);
-	background-color:#cf0e00;
-	-webkit-border-top-left-radius:1px;
-	-moz-border-radius-topleft:1px;
-	border-top-left-radius:1px;
-	-webkit-border-top-right-radius:1px;
-	-moz-border-radius-topright:1px;
-	border-top-right-radius:1px;
-	-webkit-border-bottom-right-radius:1px;
-	-moz-border-radius-bottomright:1px;
-	border-bottom-right-radius:1px;
-	-webkit-border-bottom-left-radius:1px;
-	-moz-border-radius-bottomleft:1px;
-	border-bottom-left-radius:1px;
-	text-indent:0;
-	border:1px solid #333232;
-	display:inline-block;
-	color: blue !important;
-	font-family:Arial;
-	font-size:18px;
-	font-weight:normal;
-	font-style:normal;
-	height:30px;
-	line-height:30px;
-	width:30px;
-	text-decoration:none;
-	text-align:center;
-    margin:1px
-}
-.ListLagu:hover {
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05,white), color-stop(1, green ) );
-	background:-moz-linear-gradient( center top, #f5f5f5 5%, #cf0e00 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#f5f5f5&#39;, endColorstr=&#39;#cf0e00&#39;);
-	background-color:#f5f5f5; color: white !important;
-}
-.ListLagu:active {
-	position:relative;
-	top:1px;
-}
-
-  .ListLaguCurrent {
-  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, red), color-stop(1,white) );
-  border-bottom-left-radius:1px;
-  text-indent:0;
-  border:1px solid #333232;
-  display:inline-block;
-  color: black !important;
-  font-family:Arial;
-  font-size:18px;
-  font-weight:normal;
-  font-style:normal;
-  height:30px;
-  line-height:30px;
-  width:30px;
-  text-decoration:none;
-  text-align:center;
-  margin:1px
-}
-
