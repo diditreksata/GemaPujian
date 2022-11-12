@@ -6,7 +6,7 @@
 .toggle_lyrics {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cf0e00), color-stop(1, #f5f5f5) );
 	background:-moz-linear-gradient( center top, #cf0e00 5%, #f5f5f5 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf0e00', endColorstr='#f5f5f5');
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#cf0e00&#39;, endColorstr=&#39;#f5f5f5&#39;);
 	background-color:#cf0e00;
 	-webkit-border-top-left-radius:12px;
 	-moz-border-radius-topleft:12px;
@@ -25,11 +25,11 @@
 	display:inline-block;
 	color:#11052b !important;
 	font-family:Arial;
-	font-size:40px;
+	font-size:16px;
 	font-weight:normal;
 	font-style:normal;
-	height:30px;
-	line-height:30px;
+	height:25px;
+	line-height:25px;
 	width:110px;
 	text-decoration:none;
 	text-align:center;
@@ -37,19 +37,17 @@
 .toggle_lyrics:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f5f5f5), color-stop(1, #cf0e00) );
 	background:-moz-linear-gradient( center top, #f5f5f5 5%, #cf0e00 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#cf0e00');
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#f5f5f5&#39;, endColorstr=&#39;#cf0e00&#39;);
 	background-color:#f5f5f5; color: #ffffff !important;
 }.toggle_lyrics:active {
 	position:relative;
 	top:1px;
 }
-
-
 .SongIndex {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
-	background-color:#a6d2e7;
+	background-color:#dfecec;
 	-webkit-border-top-left-radius:1px;
 	-moz-border-radius-topleft:1px;
 	border-top-left-radius:1px;
@@ -77,7 +75,7 @@
 	text-align:center;
     margin:1px
 }.SongIndex:hover {
-	background-color:#141415; 
+	background-color:#1e62d0; 
 color: #ffffff !important; font-weight: bold;
 	
 }.SongIndex:active {
