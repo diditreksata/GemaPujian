@@ -1,5 +1,5 @@
 /*!
- * jQuery Chord Transposer plugin v3.1.1
+ * jQuery Chord Transposer plugin v3.6.1
  * http://codegavin.com/projects/transposer
  *
  * Copyright 2010, Jesse Gavin
@@ -240,8 +240,8 @@
 
 
   $.fn.transpose.defaults = {
-    chordRegex: /^[A-G][b\#\+\-]?(2|4|5|6|7|9|11|13|-5|-9|\#5|\#9|\+5|\+9|b5|b9|add|aug|dim|maj|m|M|sus|Key|:||o)*(\/[A-G][b\#\+\-]*)*$/,
-    chordReplaceRegex: /([A-G][b\#\+\-]?(2|4|5|6|7|9|11|13|-5|-9|\#5|\#9|\+5|\+9|b5|b9|add|aug|dim|maj|m|M|sus|Key|:|o)*)/g
+    chordRegex: /^[A-G][b\#\+\-]?(2|4|5|6|7|9|11|13|-5|-9|\#5|\#9|\+5|\+9|b5|b9|add|aug|dim|maj|m|M|sus|Key:||o)*(\/[A-G][b\#\+\-]*)*$/,
+    chordReplaceRegex: /([A-G][b\#\+\-]?(2|4|5|6|7|9|11|13|-5|-9|\#5|\#9|\+5|\+9|b5|b9|add|aug|dim|maj|m|M|sus|Key:|o)*)/g
   };
 
 })(jQuery);
