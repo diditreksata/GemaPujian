@@ -228,5 +228,5 @@ color: #ffffff !important; font-weight: bold;
 }
 .transpose-keys a.selected { 
   background: #f24537; 
-  color: #ffffff;
+  color: #000000;
 }
