@@ -46,7 +46,7 @@ font-size:14px;
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477) );
 	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#fb9e25&#39;, endColorstr=&#39;#ffc477&#39;);
-	background-color:#ffffff; font-weight: bold;
+	background-color:#ffffff;
 }
 .transpose-keys a:active {
 	position:relative;
@@ -54,5 +54,5 @@ font-size:14px;
 }
 .transpose-keys a.selected { 
   background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #f30707) ); 
-  color: #000000; font-weight: bold;
+  color: #000000; font-size:18px;
 }
