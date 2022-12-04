@@ -47,7 +47,7 @@
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
-	background-color:#dfecec;
+	background-color:#ffffff;
 	-webkit-border-top-left-radius:1px;
 	-moz-border-radius-topleft:1px;
 	border-top-left-radius:1px;
@@ -65,12 +65,12 @@
 	display:inline-block;
 	color:#3d3a3d;
 	font-family:arial;
-	font-size:12px;
+	font-size:15px;
 	font-weight:normal;
 	font-style:normal;
-	height:18px;
-	line-height:18px;
-	width:18px;
+	height:21px;
+	line-height:21px;
+	width:21px;
 	text-decoration:none;
 	text-align:center;
     margin:1px
