@@ -63,7 +63,7 @@
         }
         
         var i=0;
-        if (keyValue == 0 || keyValue == 2 || keyValue == 5 || keyValue == 7 || keyValue == 10) {
+        if (keyValue == 1 || keyValue == 3 || keyValue == 6 || keyValue == 8 || keyValue == 10) {
             // Return the Flat or Sharp Key
             switch(targetKey.name) {
               case "C":
@@ -74,7 +74,7 @@
               case "F#":
               case "G":
               case "G#":
-			        case "A":
+			  case "A":
               case "A#":
               case "B":
                   for (;i<keys.length;i++) {
