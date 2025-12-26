@@ -1,12 +1,12 @@
 /*!
- * jQuery Chord Transposer plugin v3.7.1
- * http://codegavin.com/projects/transposer
+ * jQuery JavaScript Library v3.7.1
+ * https://jquery.com/
  *
- * Copyright 2010, Jesse Gavin
- * Dual licensed under the MIT or GPL Version 2 licenses.
- * http://codegavin.com/license
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
  *
- * Date: Sat Jun 26 21:27:00 2010 -0600
+ * Date: 2023-08-28T13:37Z
  */
 (function($) {
 
